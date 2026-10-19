@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "children": [
+        {
+          "href": "file:///etc/passwd",
+          "toc_title": "LFI Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "pdf_absolute_path": "/etc/passwd",
+    "author": "tester"
+  }
+}
